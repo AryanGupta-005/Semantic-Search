@@ -1,0 +1,1826 @@
+{
+  "0": {
+    "top_documents": [
+      {
+        "id": 4040,
+        "membership": 1.0,
+        "label": "comp.sys.mac.hardware",
+        "snippet": "ethernet to localtalk on a quadra?\ni have used both my serial ports with a modem and a serial printer, \nso i cannot use appletalk. is there a ethernet to localtalk hardware\nthat will let me use the et"
+      },
+      {
+        "id": 3252,
+        "membership": 1.0,
+        "label": "comp.sys.ibm.pc.hardware",
+        "snippet": "conner cp30061g info, please\ni have a conner-disk model cp30061g (200mb ??) with no info at all. the only thing i know is that\nis normally used with compaq-machines.\nplease, send me information on swi"
+      },
+      {
+        "id": 3249,
+        "membership": 1.0,
+        "label": "comp.sys.ibm.pc.hardware",
+        "snippet": "ide vs scsi\ngrubb wrote:\n: (wayne smith) writes:\n: >what does a 200-400 meg 5 megs/sec scsi drive cost?\n: since the quadra is the only mac able to deal with 5mb/s and hard drives start\n: at 160mb i ha"
+      },
+      {
+        "id": 3248,
+        "membership": 1.0,
+        "label": "comp.sys.ibm.pc.hardware",
+        "snippet": "ide vs scsi\nwayne smith wrote:\n: in article (grubb) writes:\n: >>point of view, why does scsi have an advantage when it comes to multi-\n: >>tasking? data is data, and it could be anywhere on the drive."
+      },
+      {
+        "id": 3246,
+        "membership": 1.0,
+        "label": "comp.sys.ibm.pc.hardware",
+        "snippet": "original ibm pc specs\nin article (r.\nv.kampen) writes:\nites:\nthe newer the drive, the less problem you will have. the old ten and fifteen\nmeg full heights were power hogs, but i have over twenty units"
+      },
+      {
+        "id": 3242,
+        "membership": 1.0,
+        "label": "comp.sys.ibm.pc.hardware",
+        "snippet": "can't write to 720 floppy\nok all you experts!\nneed answer quick.386 machine ,1.44 floppy ; unable to write to a formated\n720 disk.machine claims that disk is write protected,but it is not.\nnote: it 'l"
+      },
+      {
+        "id": 3239,
+        "membership": 1.0,
+        "label": "comp.sys.ibm.pc.hardware",
+        "snippet": "more western digital hd info needed\n (holly ks) writes:\n`my western digital also has three sets of pins on the back. i am using it with\n`another hard drive as well and the settings for the jumpers wer"
+      },
+      {
+        "id": 3238,
+        "membership": 1.0,
+        "label": "comp.sys.ibm.pc.hardware",
+        "snippet": "splitting drives into two - does it make them faster?\nin article (andrew rossmann) writes:\ni think the original respondent (guy dawson?) was refering to something\nmuch more elementary.\nevery partition"
+      },
+      {
+        "id": 3236,
+        "membership": 1.0,
+        "label": "comp.sys.ibm.pc.hardware",
+        "snippet": "soundblaster irq and port settings\nin article (anssi saari) says:\nthat is correct. in dos you can use irq 7 for your sb.you can't do\nthat under os/2 because it uses irq 7 for the printer"
+      },
+      {
+        "id": 3235,
+        "membership": 1.0,
+        "label": "comp.sys.ibm.pc.hardware",
+        "snippet": "changing motherboards - messing with connectors\nin article jozef slaby writes:\ni just put replaced the motherboard in a system and had similar questions.\nmy 2 cents worth:\nthe speaker connector should"
+      }
+    ],
+    "label_distribution": {
+      "comp.sys.mac.hardware": 1,
+      "comp.sys.ibm.pc.hardware": 49
+    },
+    "boundary_documents": [
+      {
+        "id": 6080,
+        "label": "misc.forsale",
+        "snippet": "********************[ pc game for sale ]******************\nwaxworks by horrorsoft/accolade (5.25\")\t\t $30\nby the same folks who brought you elvira i & ii. i played\nelvira i & ii, and think that horrors",
+        "top_memberships": {
+          "7": 0.5074,
+          "0": 0.4926,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 12047,
+        "label": "sci.electronics",
+        "snippet": "microphone pre-amp/low noise/phantom powered\ni'm looking to build a microphone preamp that has very good low-noise characteristics, large clean gain, and incorportates phantom power (20-48 volts (dc))",
+        "top_memberships": {
+          "7": 0.5077,
+          "0": 0.4923,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 12161,
+        "label": "sci.electronics",
+        "snippet": "how do di boxes work?\nin article (stephe lewis foskett) writes:\n$50 each!! don't bother trying to make one yourself, just shop around a\nlittle. i've found dod brand di boxes for as cheap as $20 each. ",
+        "top_memberships": {
+          "7": 0.5186,
+          "0": 0.4814,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 2865,
+        "label": "comp.os.ms-windows.misc",
+        "snippet": "exit codes (dos--sorry for wrong group : (\nin article (michael panayiotakis) writes:\nthere are 3 alternatives:\n1. you can try to write a small c program something like:\n int my_int_var;\n my_int_var = ",
+        "top_memberships": {
+          "12": 0.521,
+          "0": 0.479,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 2188,
+        "label": "comp.os.ms-windows.misc",
+        "snippet": "problem on dos box from windows - \"this file is compressed...\"\ni've started getting a message from windows 3.1 whenever i try to execute\na dos program from windows, either thru the program manager or ",
+        "top_memberships": {
+          "0": 0.5234,
+          "12": 0.4766,
+          "14": 0.0
+        }
+      }
+    ]
+  },
+  "1": {
+    "top_documents": [
+      {
+        "id": 0,
+        "membership": 1.0,
+        "label": "alt.atheism",
+        "snippet": "alt.atheism faq: atheist resources\narchive-name: atheism/resources\nalt-atheism-archive-name: resources\nlast-modified: 11 december 1992\nversion: 1.0\n atheist resources\n addresses of atheist organizatio"
+      },
+      {
+        "id": 15040,
+        "membership": 1.0,
+        "label": "soc.religion.christian",
+        "snippet": "the arrogance of christians\nno the members of the first group are not necessarily\narrogant. but when i ask them if they are absolutely certain\nthat the volcano will erupt, i expect them to say so \"no,"
+      },
+      {
+        "id": 15038,
+        "membership": 1.0,
+        "label": "soc.religion.christian",
+        "snippet": "the arrogance of christians\nin article (carol alvin) writes:\ni agree with carol here. determining absolutes is, practically speaking, a\nwaste of time. and we easily forget that relative truth is, in f"
+      },
+      {
+        "id": 15037,
+        "membership": 1.0,
+        "label": "soc.religion.christian",
+        "snippet": "pantheism & environmentalism\nin article (michael covington) writes:\n in article (terrance heath) writes:\n i heard the same thing, but without confirmation that he actually said it.\n it was just as ala"
+      },
+      {
+        "id": 911,
+        "membership": 1.0,
+        "label": "alt.atheism",
+        "snippet": "branch athiests cult (was rawlins debunks creationism)\nin article (john e. king) writes:\nooooops! jack, you forgot to expunge one part of your new ripped-out-of-context\nquote. that's the last line. he"
+      },
+      {
+        "id": 910,
+        "membership": 1.0,
+        "label": "alt.atheism",
+        "snippet": "hard/soft == strong/weak. kiss!\non 20 apr 93 08:31:07 gmt (bake timmons) wrote:\n[writing to someone else]\ncan we get back to using the terms \"strong atheist\" and \"weak atheist\"\nrather than this \"hard "
+      },
+      {
+        "id": 905,
+        "membership": 1.0,
+        "label": "alt.atheism",
+        "snippet": "genocide is caused by theism : evidence?\n...execellent examples of luther's insane rantings deleted...\ngee, i'm *sooooo* surprised that they don't teach this part of his\nideology in high schools today"
+      },
+      {
+        "id": 15036,
+        "membership": 1.0,
+        "label": "soc.religion.christian",
+        "snippet": "ancient books\nin article writes:\nthe last sentence is ironic, since so many readers of\nsoc.religion.christian seem to not be embarrassed by apologists such as\njosh mcdowell and c.s. lewis. the above a"
+      },
+      {
+        "id": 903,
+        "membership": 1.0,
+        "label": "alt.atheism",
+        "snippet": "ancient references to christianity (was: albert sabin)\nin article \n(mike cobb) writes:\n(mike cobb) writes:\nbruce hits the main point simply -- as russell turpin does in more detail\nin his response. *a"
+      },
+      {
+        "id": 902,
+        "membership": 1.0,
+        "label": "alt.atheism",
+        "snippet": "a little too satanic\njon livesey writes:\nreading newspapers to learn about this kind of stuff is not the best idea in\nthe world. newspaper reporters are notoriously ignorant on the subject of\nreligion"
+      }
+    ],
+    "label_distribution": {
+      "alt.atheism": 39,
+      "soc.religion.christian": 11
+    },
+    "boundary_documents": [
+      {
+        "id": 6080,
+        "label": "misc.forsale",
+        "snippet": "********************[ pc game for sale ]******************\nwaxworks by horrorsoft/accolade (5.25\")\t\t $30\nby the same folks who brought you elvira i & ii. i played\nelvira i & ii, and think that horrors",
+        "top_memberships": {
+          "7": 0.5074,
+          "0": 0.4926,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 12047,
+        "label": "sci.electronics",
+        "snippet": "microphone pre-amp/low noise/phantom powered\ni'm looking to build a microphone preamp that has very good low-noise characteristics, large clean gain, and incorportates phantom power (20-48 volts (dc))",
+        "top_memberships": {
+          "7": 0.5077,
+          "0": 0.4923,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 12161,
+        "label": "sci.electronics",
+        "snippet": "how do di boxes work?\nin article (stephe lewis foskett) writes:\n$50 each!! don't bother trying to make one yourself, just shop around a\nlittle. i've found dod brand di boxes for as cheap as $20 each. ",
+        "top_memberships": {
+          "7": 0.5186,
+          "0": 0.4814,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 2865,
+        "label": "comp.os.ms-windows.misc",
+        "snippet": "exit codes (dos--sorry for wrong group : (\nin article (michael panayiotakis) writes:\nthere are 3 alternatives:\n1. you can try to write a small c program something like:\n int my_int_var;\n my_int_var = ",
+        "top_memberships": {
+          "12": 0.521,
+          "0": 0.479,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 2188,
+        "label": "comp.os.ms-windows.misc",
+        "snippet": "problem on dos box from windows - \"this file is compressed...\"\ni've started getting a message from windows 3.1 whenever i try to execute\na dos program from windows, either thru the program manager or ",
+        "top_memberships": {
+          "0": 0.5234,
+          "12": 0.4766,
+          "14": 0.0
+        }
+      }
+    ]
+  },
+  "2": {
+    "top_documents": [
+      {
+        "id": 12180,
+        "membership": 1.0,
+        "label": "sci.electronics",
+        "snippet": "what do nuclear site's cooling towers do?\nexcerpts from netnews.sci.electronics: 16-apr-93 re: what do nuclear\nsite's .. by \ngreat explaination, however you left off one detail, why do you always\nsee "
+      },
+      {
+        "id": 8184,
+        "membership": 1.0,
+        "label": "rec.motorcycles",
+        "snippet": "bmw moa members read this!\nwm. l. ranck wrote:\n: as a new bmw owner i was thinking about signing up for the moa, but\n: right now it is beginning to look suspiciously like throwing money\n: down a ratho"
+      },
+      {
+        "id": 8190,
+        "membership": 1.0,
+        "label": "rec.motorcycles",
+        "snippet": "observation re: helmets\n\tdo i have to be the one to say it?\n\tdon't be so stupid as to leave your helmet on the seat where it can\n\tfall down and go boom!\n\tthat kind of fall is what the helmet is design"
+      },
+      {
+        "id": 8189,
+        "membership": 1.0,
+        "label": "rec.motorcycles",
+        "snippet": "what about no-fault?\nin article (michael bain) writes:\n\tyup. unfortunately, as has been pointed out, the cost of insurance\ndoes not go down with no fault. the crappiest drivers make out like bandits\nb"
+      },
+      {
+        "id": 8188,
+        "membership": 1.0,
+        "label": "rec.motorcycles",
+        "snippet": "got my bike! (was wanted: advice on cb900c purchase)\nin article (jamie w burnside) writes:\n\tthere should be no worries about the trans.\n\tdoes this count?\n$ cat dod.faq | mailx -s \"hahahha\" (waiting to"
+      },
+      {
+        "id": 8187,
+        "membership": 1.0,
+        "label": "rec.motorcycles",
+        "snippet": "how to act in front of traffic jerks\nin article (niels mikkel michelsen) writes:\nabsolutely, unless you are in the u.s. then the cager will pull a gun\nand blow you away.\n| bob mugele (jungle bob) | em"
+      },
+      {
+        "id": 8186,
+        "membership": 1.0,
+        "label": "rec.motorcycles",
+        "snippet": "v-max handling request\nin article (john r. daker) writes:\nzero to very fast very quickly... lastest rumor is 115 hp at the rear wheel,\nhandles like a dream in a straight line to 80-100, and then gets "
+      },
+      {
+        "id": 8185,
+        "membership": 1.0,
+        "label": "rec.motorcycles",
+        "snippet": "should liability insurance be required?\ntommy marcus mcguire wrote:\n: you know, it sounds suspiciously like no fault doesn't even do what it\n: was advertised as doing---getting the lawyers out of the "
+      },
+      {
+        "id": 8183,
+        "membership": 1.0,
+        "label": "rec.motorcycles",
+        "snippet": "should liability insurance be required?\nin article (wm. l. ranck) writes:\n in colorado my agent tells me that no fault only applies to\n the medical coverage."
+      },
+      {
+        "id": 8192,
+        "membership": 1.0,
+        "label": "rec.motorcycles",
+        "snippet": "motorcycle detailing tip #18\nchuck kuczaj wrote:\n: (michael beavington) writes:\n: mcguire's makes a plastic scratch/removing compound and a plastic\n: polishing compound which really work great as well"
+      }
+    ],
+    "label_distribution": {
+      "sci.electronics": 1,
+      "rec.motorcycles": 45,
+      "rec.autos": 3,
+      "talk.politics.misc": 1
+    },
+    "boundary_documents": [
+      {
+        "id": 6080,
+        "label": "misc.forsale",
+        "snippet": "********************[ pc game for sale ]******************\nwaxworks by horrorsoft/accolade (5.25\")\t\t $30\nby the same folks who brought you elvira i & ii. i played\nelvira i & ii, and think that horrors",
+        "top_memberships": {
+          "7": 0.5074,
+          "0": 0.4926,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 12047,
+        "label": "sci.electronics",
+        "snippet": "microphone pre-amp/low noise/phantom powered\ni'm looking to build a microphone preamp that has very good low-noise characteristics, large clean gain, and incorportates phantom power (20-48 volts (dc))",
+        "top_memberships": {
+          "7": 0.5077,
+          "0": 0.4923,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 12161,
+        "label": "sci.electronics",
+        "snippet": "how do di boxes work?\nin article (stephe lewis foskett) writes:\n$50 each!! don't bother trying to make one yourself, just shop around a\nlittle. i've found dod brand di boxes for as cheap as $20 each. ",
+        "top_memberships": {
+          "7": 0.5186,
+          "0": 0.4814,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 2865,
+        "label": "comp.os.ms-windows.misc",
+        "snippet": "exit codes (dos--sorry for wrong group : (\nin article (michael panayiotakis) writes:\nthere are 3 alternatives:\n1. you can try to write a small c program something like:\n int my_int_var;\n my_int_var = ",
+        "top_memberships": {
+          "12": 0.521,
+          "0": 0.479,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 2188,
+        "label": "comp.os.ms-windows.misc",
+        "snippet": "problem on dos box from windows - \"this file is compressed...\"\ni've started getting a message from windows 3.1 whenever i try to execute\na dos program from windows, either thru the program manager or ",
+        "top_memberships": {
+          "0": 0.5234,
+          "12": 0.4766,
+          "14": 0.0
+        }
+      }
+    ]
+  },
+  "3": {
+    "top_documents": [
+      {
+        "id": 19878,
+        "membership": 1.0,
+        "label": "talk.religion.misc",
+        "snippet": "i'll see your demand and raise you... (was re: after 2000 years etc)\nin article \n (bill conner) writes:\nyou are in the village. many happy returns! be seeing you!\n[your ways and means get reign of the"
+      },
+      {
+        "id": 16807,
+        "membership": 1.0,
+        "label": "talk.politics.guns",
+        "snippet": "ma senate bills. help!\ntwo urgent requests:\n1. i need the latest update and description of ma bill s-897. from\n what i gather this bill takes the hunter safety courses from\n law enforcement and places"
+      },
+      {
+        "id": 16815,
+        "membership": 1.0,
+        "label": "talk.politics.guns",
+        "snippet": "batf & fbi do right thing in waco\neveryone is complaining about the debacle in waco. it is hard to \nunderstand all this angst. what happend there is nothing less than\nwhat we wanted to happen. why all"
+      },
+      {
+        "id": 16814,
+        "membership": 1.0,
+        "label": "talk.politics.guns",
+        "snippet": "two questions\ni'd appreciate any help anyone could give me on these two questions:\nthe brady bill was in the news throughout 1992 but what actually happened to\nit in congress? did bush veto it? if so,"
+      },
+      {
+        "id": 16813,
+        "membership": 1.0,
+        "label": "talk.politics.guns",
+        "snippet": "nature of the waco gas\nin a previous article, (dave bernard) says:\ni don't know about the paranoia and irrationality, but the rest is\npretty close, all though you left out the inability to breath. of\n"
+      },
+      {
+        "id": 16812,
+        "membership": 1.0,
+        "label": "talk.politics.guns",
+        "snippet": "waco burning\nin article (p.vasilion) writes:\nthis is quite corect, but a bullet hitting a burned body with little energy\nwill show virtually no deformation, ie a hollow point probably would not\nexpand"
+      },
+      {
+        "id": 16811,
+        "membership": 1.0,
+        "label": "talk.politics.guns",
+        "snippet": "bd's did themselves--you're all paranoid freaks\n|this was no move fuck-up. a helicoptor was thermal-imaging the compound\n|that afternoon and detected three fires erupting almost simultaneously.\ndid an"
+      },
+      {
+        "id": 16810,
+        "membership": 1.0,
+        "label": "talk.politics.guns",
+        "snippet": "denver post classifieds: no assault weapons\ni came across the following notice in the denver post classified secction\nthis morning (april 26, 1993):\n\\begin{quote}\nnotice:\nthe denver post will no longe"
+      },
+      {
+        "id": 16809,
+        "membership": 1.0,
+        "label": "talk.politics.guns",
+        "snippet": "batf/fbi murders almost everyone in waco today! 4/19\nin a previous article, (morris the cat) says:\nyeah sure. maybe thermal gunsights on the armored vehicles. when\ndiscussing military hardware and wea"
+      },
+      {
+        "id": 16808,
+        "membership": 1.0,
+        "label": "talk.politics.guns",
+        "snippet": "texas hb 1776 - voting is today\nin article (daryl biberdorf) writes:\nwell, i don't normally like to quote myself, but i just got some\nadditional information. i called my state rep (to express my suppo"
+      }
+    ],
+    "label_distribution": {
+      "talk.religion.misc": 1,
+      "talk.politics.guns": 46,
+      "talk.politics.misc": 1,
+      "misc.forsale": 2
+    },
+    "boundary_documents": [
+      {
+        "id": 6080,
+        "label": "misc.forsale",
+        "snippet": "********************[ pc game for sale ]******************\nwaxworks by horrorsoft/accolade (5.25\")\t\t $30\nby the same folks who brought you elvira i & ii. i played\nelvira i & ii, and think that horrors",
+        "top_memberships": {
+          "7": 0.5074,
+          "0": 0.4926,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 12047,
+        "label": "sci.electronics",
+        "snippet": "microphone pre-amp/low noise/phantom powered\ni'm looking to build a microphone preamp that has very good low-noise characteristics, large clean gain, and incorportates phantom power (20-48 volts (dc))",
+        "top_memberships": {
+          "7": 0.5077,
+          "0": 0.4923,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 12161,
+        "label": "sci.electronics",
+        "snippet": "how do di boxes work?\nin article (stephe lewis foskett) writes:\n$50 each!! don't bother trying to make one yourself, just shop around a\nlittle. i've found dod brand di boxes for as cheap as $20 each. ",
+        "top_memberships": {
+          "7": 0.5186,
+          "0": 0.4814,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 2865,
+        "label": "comp.os.ms-windows.misc",
+        "snippet": "exit codes (dos--sorry for wrong group : (\nin article (michael panayiotakis) writes:\nthere are 3 alternatives:\n1. you can try to write a small c program something like:\n int my_int_var;\n my_int_var = ",
+        "top_memberships": {
+          "12": 0.521,
+          "0": 0.479,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 2188,
+        "label": "comp.os.ms-windows.misc",
+        "snippet": "problem on dos box from windows - \"this file is compressed...\"\ni've started getting a message from windows 3.1 whenever i try to execute\na dos program from windows, either thru the program manager or ",
+        "top_memberships": {
+          "0": 0.5234,
+          "12": 0.4766,
+          "14": 0.0
+        }
+      }
+    ]
+  },
+  "4": {
+    "top_documents": [
+      {
+        "id": 9939,
+        "membership": 1.0,
+        "label": "rec.sport.hockey",
+        "snippet": "potvin's new goalie mask\nstephen legge writes:\nactually, this part was really interesting. it turns out that the mask is\ncustom-fit to the goalie's face. the goalie puts his/her face through a\npiece o"
+      },
+      {
+        "id": 10357,
+        "membership": 1.0,
+        "label": "rec.sport.hockey",
+        "snippet": "if you were pat burns ...\njason cockroft wrote:\n: what are the leafs to do? i am a leaf supporter and\n: i say the leafs are going down in four unless there\n: is nothing short of a miracle or a stroke "
+      },
+      {
+        "id": 10324,
+        "membership": 1.0,
+        "label": "rec.sport.hockey",
+        "snippet": "pens playoff radio coverage (was:re: radio stations)\nin article (george pavlic) writes:\ndon't kid around... they just might listen.\nkevin l. stamber\npurdue university\nwaiting to hear 'free bird' as th"
+      },
+      {
+        "id": 8969,
+        "membership": 1.0,
+        "label": "rec.sport.baseball",
+        "snippet": "players overpaid?\nted frank's list of underpaid players was this:\nwhat do all of these players have in common? they do not qualify for \narbitration. they were never free agents.\nit's called the reserv"
+      },
+      {
+        "id": 10322,
+        "membership": 1.0,
+        "label": "rec.sport.hockey",
+        "snippet": "goalie masks\nin article (deepak chhabra) writes:\nthis is the new buffalo one, the second since he's been with the\nsabres? i recall a price tag of over $700 just for the paint job on\nthat mask, and a t"
+      },
+      {
+        "id": 10321,
+        "membership": 1.0,
+        "label": "rec.sport.hockey",
+        "snippet": "if you were pat burns ...\nin (gerald olchowy) writes:\nright gerald. and take away bob probert and the wings are dead octopuses.\nlet's wait for the body to get cold before we start in with the eulogies"
+      },
+      {
+        "id": 10320,
+        "membership": 1.0,
+        "label": "rec.sport.hockey",
+        "snippet": "bay area media (wings-leafs coverage)\n (roger maynard) writes:\ngood comeback, rog. your quick wit and intelligence continues to\namaze everyone."
+      },
+      {
+        "id": 10319,
+        "membership": 1.0,
+        "label": "rec.sport.hockey",
+        "snippet": "if you were pat burns ...\nin article \n (jason cockroft) writes:\n well, i'm a wings fan and i think the first thing that you should do is to\nget the opponent's line combinations correct before you try "
+      },
+      {
+        "id": 10318,
+        "membership": 1.0,
+        "label": "rec.sport.hockey",
+        "snippet": "if you were pat burns ...\nin article writes:\npray for the wings to become lazy and overconfident...the wings\ncan only lose the series...toronto cannot win it. take away\ndoug gilmour and the leafs are "
+      },
+      {
+        "id": 10317,
+        "membership": 1.0,
+        "label": "rec.sport.hockey",
+        "snippet": "abc coverage\njoseph b stiehm wrote:\n: i have one complaint for the cameramen doing the jersey-pitt series: show\n: the shots, not the hits. on more than one occassion the camera zoomed in\n: on a check "
+      }
+    ],
+    "label_distribution": {
+      "rec.sport.hockey": 49,
+      "rec.sport.baseball": 1
+    },
+    "boundary_documents": [
+      {
+        "id": 6080,
+        "label": "misc.forsale",
+        "snippet": "********************[ pc game for sale ]******************\nwaxworks by horrorsoft/accolade (5.25\")\t\t $30\nby the same folks who brought you elvira i & ii. i played\nelvira i & ii, and think that horrors",
+        "top_memberships": {
+          "7": 0.5074,
+          "0": 0.4926,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 12047,
+        "label": "sci.electronics",
+        "snippet": "microphone pre-amp/low noise/phantom powered\ni'm looking to build a microphone preamp that has very good low-noise characteristics, large clean gain, and incorportates phantom power (20-48 volts (dc))",
+        "top_memberships": {
+          "7": 0.5077,
+          "0": 0.4923,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 12161,
+        "label": "sci.electronics",
+        "snippet": "how do di boxes work?\nin article (stephe lewis foskett) writes:\n$50 each!! don't bother trying to make one yourself, just shop around a\nlittle. i've found dod brand di boxes for as cheap as $20 each. ",
+        "top_memberships": {
+          "7": 0.5186,
+          "0": 0.4814,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 2865,
+        "label": "comp.os.ms-windows.misc",
+        "snippet": "exit codes (dos--sorry for wrong group : (\nin article (michael panayiotakis) writes:\nthere are 3 alternatives:\n1. you can try to write a small c program something like:\n int my_int_var;\n my_int_var = ",
+        "top_memberships": {
+          "12": 0.521,
+          "0": 0.479,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 2188,
+        "label": "comp.os.ms-windows.misc",
+        "snippet": "problem on dos box from windows - \"this file is compressed...\"\ni've started getting a message from windows 3.1 whenever i try to execute\na dos program from windows, either thru the program manager or ",
+        "top_memberships": {
+          "0": 0.5234,
+          "12": 0.4766,
+          "14": 0.0
+        }
+      }
+    ]
+  },
+  "5": {
+    "top_documents": [
+      {
+        "id": 14587,
+        "membership": 1.0,
+        "label": "sci.space",
+        "snippet": "gamma ray bursters. positional stuff.\nin article (kevin w. plaxco) writes:\n batse alone isn't always used to determine position. when a\nparticularly bright burst occurs, there are a couple of other de"
+      },
+      {
+        "id": 14718,
+        "membership": 1.0,
+        "label": "sci.space",
+        "snippet": "vandalizing the sky.\nin (george f. krumins) writes:\nright? what right? and don't you mean something more like: it so\ntypical that the wants of the minority can obstruct the wants of the\nmajority, no m"
+      },
+      {
+        "id": 14705,
+        "membership": 1.0,
+        "label": "sci.space",
+        "snippet": "rocket types\nin article (glen justin balmer) writes:\ni'd guess this was a garbled report of the nerva effort to develop a\nsolid-core fission rocket (the most mundane type of nuclear rocket).\nthat was "
+      },
+      {
+        "id": 14706,
+        "membership": 1.0,
+        "label": "sci.space",
+        "snippet": "deployable space dock..\nin article writes:\nif you're doing large-scale satellite servicing, being able to do it in\na pressurized hangar makes considerable sense. the question is whether\nanyone is goin"
+      },
+      {
+        "id": 14707,
+        "membership": 1.0,
+        "label": "sci.space",
+        "snippet": "satellite around pluto mission?\nin article writes:\nthere would be some point to doing long-term monitoring of things like\nparticles and fields, not to mention atmospheric phenomena. however,\nthere is "
+      },
+      {
+        "id": 14708,
+        "membership": 1.0,
+        "label": "sci.space",
+        "snippet": "hst servicing mission scheduled for 11 days\npat wrote:\n: the limit on space-walking is a function of suit supplies (mass)\n: and orbiter duration. \n: in order to perform the re-boost of the hst, the om"
+      },
+      {
+        "id": 14709,
+        "membership": 1.0,
+        "label": "sci.space",
+        "snippet": "hst servicing mission scheduled for 11 days\nin article writes:\nyou don't *need* to, but it's desirable. hst, like all satellites in\nlow earth orbit, is gradually losing altitude due to air drag. it wa"
+      },
+      {
+        "id": 14710,
+        "membership": 1.0,
+        "label": "sci.space",
+        "snippet": "temperature of the dark sky\nin article \n (stupendous man) writes: \ninterstellar grains are not at all close to blackbodies. the \"large\"\ngrains have sizes of order 0.1 micron and absorb visible light w"
+      },
+      {
+        "id": 14711,
+        "membership": 1.0,
+        "label": "sci.space",
+        "snippet": "vandalizing the sky.\nin article (josh hopkins) writes:\nit's public because it belongs to everybody. it's vandalism because many people -- power companies -- do maliciously waste light. if they can sel"
+      },
+      {
+        "id": 13943,
+        "membership": 1.0,
+        "label": "sci.space",
+        "snippet": "dc-x: vehicle nears flight test\n writes:\n[excellent discussion of dc-x landing techniques by henry deleted]\nthe dc-x will not take of horizontally. it takes of vertically. \nfor several reasons. vertic"
+      }
+    ],
+    "label_distribution": {
+      "sci.space": 50
+    },
+    "boundary_documents": [
+      {
+        "id": 6080,
+        "label": "misc.forsale",
+        "snippet": "********************[ pc game for sale ]******************\nwaxworks by horrorsoft/accolade (5.25\")\t\t $30\nby the same folks who brought you elvira i & ii. i played\nelvira i & ii, and think that horrors",
+        "top_memberships": {
+          "7": 0.5074,
+          "0": 0.4926,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 12047,
+        "label": "sci.electronics",
+        "snippet": "microphone pre-amp/low noise/phantom powered\ni'm looking to build a microphone preamp that has very good low-noise characteristics, large clean gain, and incorportates phantom power (20-48 volts (dc))",
+        "top_memberships": {
+          "7": 0.5077,
+          "0": 0.4923,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 12161,
+        "label": "sci.electronics",
+        "snippet": "how do di boxes work?\nin article (stephe lewis foskett) writes:\n$50 each!! don't bother trying to make one yourself, just shop around a\nlittle. i've found dod brand di boxes for as cheap as $20 each. ",
+        "top_memberships": {
+          "7": 0.5186,
+          "0": 0.4814,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 2865,
+        "label": "comp.os.ms-windows.misc",
+        "snippet": "exit codes (dos--sorry for wrong group : (\nin article (michael panayiotakis) writes:\nthere are 3 alternatives:\n1. you can try to write a small c program something like:\n int my_int_var;\n my_int_var = ",
+        "top_memberships": {
+          "12": 0.521,
+          "0": 0.479,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 2188,
+        "label": "comp.os.ms-windows.misc",
+        "snippet": "problem on dos box from windows - \"this file is compressed...\"\ni've started getting a message from windows 3.1 whenever i try to execute\na dos program from windows, either thru the program manager or ",
+        "top_memberships": {
+          "0": 0.5234,
+          "12": 0.4766,
+          "14": 0.0
+        }
+      }
+    ]
+  },
+  "6": {
+    "top_documents": [
+      {
+        "id": 13574,
+        "membership": 1.0,
+        "label": "sci.med",
+        "snippet": "celery and hypertension\nsomewhere or other i read that when a person of chinese heritage was\ntold that he had high blood pressure he responded by eating celery\n(sorry, i don't recall the \"dosage\"). ap"
+      },
+      {
+        "id": 18972,
+        "membership": 1.0,
+        "label": "talk.religion.misc",
+        "snippet": "abortion\nin article (anthony landreneau) writes:\n} do one thing right and do it well.\ndo you consider trying to make abortion illegal an example of this?"
+      },
+      {
+        "id": 18962,
+        "membership": 1.0,
+        "label": "talk.religion.misc",
+        "snippet": "abortion and private health coverage -- letters regarding\nin article (dennis\nkriz) wrote:\n\"just sign it and send it, sonny, don't read the fine print. just\nsign it, sonny! :-).\ncheers,\nkent\n alink: ks"
+      },
+      {
+        "id": 13657,
+        "membership": 1.0,
+        "label": "sci.med",
+        "snippet": "ecg data needed\ni need some ecg data , uncompressed, hopefully in ascii format.\ndon't care what it looks like, this is for a signal processing\nproject."
+      },
+      {
+        "id": 13658,
+        "membership": 1.0,
+        "label": "sci.med",
+        "snippet": "please,help a patient!!!\nin article writes:\nthis is also being replied to via e-mail. i dialed my university\nlibrarian, and he looked it up:\nloma linda university medical center\nloma linda, ca 92350\ni"
+      },
+      {
+        "id": 13659,
+        "membership": 1.0,
+        "label": "sci.med",
+        "snippet": "need info on circumcision, medical cons and pros\nin article (mike g.) writes:\nmoney probably has a lot to do with keeping the practice of routine \ncircumcision alive... it's another opporitunity to ch"
+      },
+      {
+        "id": 13208,
+        "membership": 1.0,
+        "label": "sci.med",
+        "snippet": "science and methodology (was: homeopathy ... tradition?)\nin article \n (russell turpin) writes:\nto start with, no methodology or form of reasoning is infallible. so\nthere's a question of how much certa"
+      },
+      {
+        "id": 18968,
+        "membership": 1.0,
+        "label": "talk.religion.misc",
+        "snippet": "abortion\nto: (trevor bauknight)\nfrom: \ntb>>su>you would also outlaw abortions in rape cases?\ntb>>kill the baby for the crimes of the father? if that where adopted a lot\ntb>>of people would die.\ntb>the"
+      },
+      {
+        "id": 18969,
+        "membership": 1.0,
+        "label": "talk.religion.misc",
+        "snippet": "abortion\nfrom: \nhs>do you also think we shouldn't fund treatment for heart disease, since after\nhs>all, those people are in that situation because of their lifestyle\nhs>(overeating, lack of exercise, "
+      },
+      {
+        "id": 13661,
+        "membership": 1.0,
+        "label": "sci.med",
+        "snippet": "pregnency without sex?\nin article (harry matthews) writes:\nbut the sperm would be very diluted in a \"x\" gallon swimming pool"
+      }
+    ],
+    "label_distribution": {
+      "sci.med": 38,
+      "talk.religion.misc": 12
+    },
+    "boundary_documents": [
+      {
+        "id": 6080,
+        "label": "misc.forsale",
+        "snippet": "********************[ pc game for sale ]******************\nwaxworks by horrorsoft/accolade (5.25\")\t\t $30\nby the same folks who brought you elvira i & ii. i played\nelvira i & ii, and think that horrors",
+        "top_memberships": {
+          "7": 0.5074,
+          "0": 0.4926,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 12047,
+        "label": "sci.electronics",
+        "snippet": "microphone pre-amp/low noise/phantom powered\ni'm looking to build a microphone preamp that has very good low-noise characteristics, large clean gain, and incorportates phantom power (20-48 volts (dc))",
+        "top_memberships": {
+          "7": 0.5077,
+          "0": 0.4923,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 12161,
+        "label": "sci.electronics",
+        "snippet": "how do di boxes work?\nin article (stephe lewis foskett) writes:\n$50 each!! don't bother trying to make one yourself, just shop around a\nlittle. i've found dod brand di boxes for as cheap as $20 each. ",
+        "top_memberships": {
+          "7": 0.5186,
+          "0": 0.4814,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 2865,
+        "label": "comp.os.ms-windows.misc",
+        "snippet": "exit codes (dos--sorry for wrong group : (\nin article (michael panayiotakis) writes:\nthere are 3 alternatives:\n1. you can try to write a small c program something like:\n int my_int_var;\n my_int_var = ",
+        "top_memberships": {
+          "12": 0.521,
+          "0": 0.479,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 2188,
+        "label": "comp.os.ms-windows.misc",
+        "snippet": "problem on dos box from windows - \"this file is compressed...\"\ni've started getting a message from windows 3.1 whenever i try to execute\na dos program from windows, either thru the program manager or ",
+        "top_memberships": {
+          "0": 0.5234,
+          "12": 0.4766,
+          "14": 0.0
+        }
+      }
+    ]
+  },
+  "7": {
+    "top_documents": [
+      {
+        "id": 6053,
+        "membership": 1.0,
+        "label": "misc.forsale",
+        "snippet": "tektronix 453 scope for sale\ntektronix 453 scope for sale:\n - 50mhz bandwidth\n - portable (not one of the 5xx series boatanchors! :^)\n - delayed sweep\n - works fine\n - i don't have the manual (they ar"
+      },
+      {
+        "id": 12660,
+        "membership": 1.0,
+        "label": "sci.electronics",
+        "snippet": "blue led's\nin article (gladman aviv) writes:\n1) your professor if just plain wrong. although blue leds are one heck of\na lot less efficient than red ones.\n2) \"typical visible light leds\" don't really "
+      },
+      {
+        "id": 12644,
+        "membership": 1.0,
+        "label": "sci.electronics",
+        "snippet": "cellular antennas\n i need to get some info a.s.a.p. about the cellular\nantenna market out there right now: who are the main\ncompanies making them, how much do they cost, what are\nthe specs (such as ga"
+      },
+      {
+        "id": 12645,
+        "membership": 1.0,
+        "label": "sci.electronics",
+        "snippet": "cellular antennas\n i need to know about the market for cellular antenna\ntechnology today... who are the main companies in the\nmarket.. how much are they selling them for? who are the\ncontact people? w"
+      },
+      {
+        "id": 6904,
+        "membership": 1.0,
+        "label": "misc.forsale",
+        "snippet": "for sale: custom couch and piano\nlocation: corona del mar, ca (orange county)\nfor sale: contemporary custom couch\n 7' long ( 3 cushions)\n solid black\n raw silk-like material\n rolled armrests\n clean de"
+      },
+      {
+        "id": 12648,
+        "membership": 1.0,
+        "label": "sci.electronics",
+        "snippet": "los angeles freeway traffic reports\nin article (doug claar) writes:\nknx am, 1070 in la, will be unhappy to hear about this, i'm sure. :-) \n(isn't knbr in the bay area?)\n\t--- jamie hanrahan, kernel mod"
+      },
+      {
+        "id": 12649,
+        "membership": 1.0,
+        "label": "sci.electronics",
+        "snippet": "blue led's\nin article (baden de bari) writes:\nin order to emit blue light, a semiconductor must have a band gap energy\nwithin the region of 2.6 to 2.8 electron volts. according to my physical\nelectron"
+      },
+      {
+        "id": 12651,
+        "membership": 1.0,
+        "label": "sci.electronics",
+        "snippet": "blue led's\nin (gladman aviv) writes:\nhe's mistaken. they exist, the semiconductor is silicon carbide, and they\nare inefficient and expensive. the bandgap is around 2.7 ev.\nthe ones i have are clear pl"
+      },
+      {
+        "id": 2064,
+        "membership": 1.0,
+        "label": "comp.os.ms-windows.misc",
+        "snippet": "trouble with sound blaster pro drivers\nrecently, windows has starting giving me the error \"sound blaster pro:\nrequires newer version of windows 3.1.\" it has worked correctly for a long\ntime, and don't"
+      },
+      {
+        "id": 12653,
+        "membership": 1.0,
+        "label": "sci.electronics",
+        "snippet": "ir detector 'cards'???\nradio shack stores sell them here in the states. not sure if\nintertan is carrying these for australia or not...\ncost is $6 usd. you charge them under a fluorescent, then\nthey gl"
+      }
+    ],
+    "label_distribution": {
+      "misc.forsale": 14,
+      "sci.electronics": 28,
+      "comp.os.ms-windows.misc": 4,
+      "rec.motorcycles": 2,
+      "sci.crypt": 1,
+      "sci.med": 1
+    },
+    "boundary_documents": [
+      {
+        "id": 6080,
+        "label": "misc.forsale",
+        "snippet": "********************[ pc game for sale ]******************\nwaxworks by horrorsoft/accolade (5.25\")\t\t $30\nby the same folks who brought you elvira i & ii. i played\nelvira i & ii, and think that horrors",
+        "top_memberships": {
+          "7": 0.5074,
+          "0": 0.4926,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 12047,
+        "label": "sci.electronics",
+        "snippet": "microphone pre-amp/low noise/phantom powered\ni'm looking to build a microphone preamp that has very good low-noise characteristics, large clean gain, and incorportates phantom power (20-48 volts (dc))",
+        "top_memberships": {
+          "7": 0.5077,
+          "0": 0.4923,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 12161,
+        "label": "sci.electronics",
+        "snippet": "how do di boxes work?\nin article (stephe lewis foskett) writes:\n$50 each!! don't bother trying to make one yourself, just shop around a\nlittle. i've found dod brand di boxes for as cheap as $20 each. ",
+        "top_memberships": {
+          "7": 0.5186,
+          "0": 0.4814,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 2865,
+        "label": "comp.os.ms-windows.misc",
+        "snippet": "exit codes (dos--sorry for wrong group : (\nin article (michael panayiotakis) writes:\nthere are 3 alternatives:\n1. you can try to write a small c program something like:\n int my_int_var;\n my_int_var = ",
+        "top_memberships": {
+          "12": 0.521,
+          "0": 0.479,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 2188,
+        "label": "comp.os.ms-windows.misc",
+        "snippet": "problem on dos box from windows - \"this file is compressed...\"\ni've started getting a message from windows 3.1 whenever i try to execute\na dos program from windows, either thru the program manager or ",
+        "top_memberships": {
+          "0": 0.5234,
+          "12": 0.4766,
+          "14": 0.0
+        }
+      }
+    ]
+  },
+  "8": {
+    "top_documents": [
+      {
+        "id": 10993,
+        "membership": 1.0,
+        "label": "sci.crypt",
+        "snippet": "text of white house announcement and q&as on clipper chip encryption\nstupid me. i believed the democrats stood for principles of personal\nprivacy while it was the neanderthal republicans that wanted i"
+      },
+      {
+        "id": 11487,
+        "membership": 1.0,
+        "label": "sci.crypt",
+        "snippet": "do we need the clipper for cheap security?\nin article (graham toal) writes:\nreasonably fancy.\nstandard \"voice\" circuits run at 56kbps inter-exchange in the us.\ntherefore, you need to achieve 4:1 to ge"
+      },
+      {
+        "id": 11475,
+        "membership": 1.0,
+        "label": "sci.crypt",
+        "snippet": "hard drive security for fbi targets\nif \"i forgot\" doesn't have as much credibility as you'd like, consider\nthis alternative. somewhere on the hard disk, duplicated a few times,\nkeep a 128-bit random n"
+      },
+      {
+        "id": 11476,
+        "membership": 1.0,
+        "label": "sci.crypt",
+        "snippet": "alt.security.pgp\n-----begin pgp signed message-----\nhi all..\ndoes anyone know of a unix utility allowing encrypted telnet sessions using\npublic-key? i'd like something so that nobody can snoop my pass"
+      },
+      {
+        "id": 11477,
+        "membership": 1.0,
+        "label": "sci.crypt",
+        "snippet": "80-bit keyseach machine\n (james r ebright) writes:\n(regarding nsa monitoring of us military code traffic)\non the contrary- the walker spy case is one where the kgb was\ngiven keys (as i recall)"
+      },
+      {
+        "id": 11478,
+        "membership": 1.0,
+        "label": "sci.crypt",
+        "snippet": "an open letter to mr. clinton\n (l. detweiler) writes:\nimho, encryption is (also) protected under the second amendment of\nthe constitution of the united states.\ni am not surprised that this administrat"
+      },
+      {
+        "id": 11481,
+        "membership": 1.0,
+        "label": "sci.crypt",
+        "snippet": "(new) reason for clipper alg'm secrecy\nin article (dwight tuinstra) writes:\nfirst of all, the chip doesn't do that. it runs at 16 megabits/second,\nwhich is far beyond what you need for voice. it's obv"
+      },
+      {
+        "id": 11482,
+        "membership": 1.0,
+        "label": "sci.crypt",
+        "snippet": "the only theory that makes any sense is that s1 and s2 are either the\nsame for all chips, or vary among very few possibilities, so that anyone\ntrying to break the encryption by brute force need only p"
+      },
+      {
+        "id": 11483,
+        "membership": 1.0,
+        "label": "sci.crypt",
+        "snippet": "can des code be shipped to canada?\nsomeone in canada asked me to send him some public domain des file\nencryption code i have. is it legal for me to send it?\nthanx."
+      },
+      {
+        "id": 11484,
+        "membership": 1.0,
+        "label": "sci.crypt",
+        "snippet": "clipper considered harmful\n: from: (ken shirriff)\n: message-id: \n: it seems likely to me that that a large subset of encrypted communications\n: would be archived to tape so they could be read if somet"
+      }
+    ],
+    "label_distribution": {
+      "sci.crypt": 48,
+      "talk.politics.misc": 2
+    },
+    "boundary_documents": [
+      {
+        "id": 6080,
+        "label": "misc.forsale",
+        "snippet": "********************[ pc game for sale ]******************\nwaxworks by horrorsoft/accolade (5.25\")\t\t $30\nby the same folks who brought you elvira i & ii. i played\nelvira i & ii, and think that horrors",
+        "top_memberships": {
+          "7": 0.5074,
+          "0": 0.4926,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 12047,
+        "label": "sci.electronics",
+        "snippet": "microphone pre-amp/low noise/phantom powered\ni'm looking to build a microphone preamp that has very good low-noise characteristics, large clean gain, and incorportates phantom power (20-48 volts (dc))",
+        "top_memberships": {
+          "7": 0.5077,
+          "0": 0.4923,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 12161,
+        "label": "sci.electronics",
+        "snippet": "how do di boxes work?\nin article (stephe lewis foskett) writes:\n$50 each!! don't bother trying to make one yourself, just shop around a\nlittle. i've found dod brand di boxes for as cheap as $20 each. ",
+        "top_memberships": {
+          "7": 0.5186,
+          "0": 0.4814,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 2865,
+        "label": "comp.os.ms-windows.misc",
+        "snippet": "exit codes (dos--sorry for wrong group : (\nin article (michael panayiotakis) writes:\nthere are 3 alternatives:\n1. you can try to write a small c program something like:\n int my_int_var;\n my_int_var = ",
+        "top_memberships": {
+          "12": 0.521,
+          "0": 0.479,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 2188,
+        "label": "comp.os.ms-windows.misc",
+        "snippet": "problem on dos box from windows - \"this file is compressed...\"\ni've started getting a message from windows 3.1 whenever i try to execute\na dos program from windows, either thru the program manager or ",
+        "top_memberships": {
+          "0": 0.5234,
+          "12": 0.4766,
+          "14": 0.0
+        }
+      }
+    ]
+  },
+  "9": {
+    "top_documents": [
+      {
+        "id": 16939,
+        "membership": 1.0,
+        "label": "talk.politics.mideast",
+        "snippet": "and the armenian bullets and bayonets completed the work.\nin article (ken arromdee) writes:\nsee, you are a compulsive liar.\nsource: \"men are like that\" by leonard ramsden hartill. the bobbs-merrill\nco"
+      },
+      {
+        "id": 17345,
+        "membership": 1.0,
+        "label": "talk.politics.mideast",
+        "snippet": "armenia says it could shoot down turkish planes\nin article writes:\nthe greeks did try to invade cyprus just before the turkish intervention: they\nfailed. just for your info. \nesin."
+      },
+      {
+        "id": 17355,
+        "membership": 1.0,
+        "label": "talk.politics.mideast",
+        "snippet": "turkey-cyprus-bosnia-serbia-greece (armenia-azeris)\nin article writes:\nif you did not see with your 'eyes' freedom of religion you\nmust ne at least blind !\n2 weeks ago i read the interview of a turkis"
+      },
+      {
+        "id": 17354,
+        "membership": 1.0,
+        "label": "talk.politics.mideast",
+        "snippet": "accounts of anti-armenian human right violations in azerbaijan #014\n accounts of anti-armenian human right violations in azerbaijan #014\n prelude to current events in nagorno-karabakh\n | i asked, \"wha"
+      },
+      {
+        "id": 17353,
+        "membership": 1.0,
+        "label": "talk.politics.mideast",
+        "snippet": "seventh century a.d. armenian math problems\nmassacre.\nanswer: a(1-1/2-1/4-1/11)=280 -> a = 1760\ncorollary: armenians strike, slaughter, destroy, and massacre. after all,\n they are not as innocent as t"
+      },
+      {
+        "id": 17352,
+        "membership": 1.0,
+        "label": "talk.politics.mideast",
+        "snippet": "lezgians astir in azerbaijan and daghestan\nin article (gt1091a gt1091a \nkaan,timucin) wrote:\n[kt] hello, shit face david, i see that you are still around. i dont want to \n[kt] see your shitty writings"
+      },
+      {
+        "id": 17351,
+        "membership": 1.0,
+        "label": "talk.politics.mideast",
+        "snippet": "israeli media (was re: israeli terrorism)\nin article (tim clock) writes:\n|> in article (\"andi beyer\") writes:\n|> >i think the israeli press might be a tad bit biased in\n|> >reporting the events. i dou"
+      },
+      {
+        "id": 17350,
+        "membership": 1.0,
+        "label": "talk.politics.mideast",
+        "snippet": "the u.s. holocaust memorial museum: a costly and dangerous mistake\nit's all my fault. \ni am in violation of one of my own rules:\n\"avoid followingup to a barf posting.\"\nin article (jack schmidling) wri"
+      },
+      {
+        "id": 17349,
+        "membership": 1.0,
+        "label": "talk.politics.mideast",
+        "snippet": "israel's expansion ii\nin article paul h. pimentel writes:\nwhat gives the us the right to keep new york? it is the home of the\nunited nations as well as being home to a myriad of ethnic groups.\n(actual"
+      },
+      {
+        "id": 15029,
+        "membership": 1.0,
+        "label": "soc.religion.christian",
+        "snippet": "need help with \"they came for the jews\" quote\nyears ago i grabbed the following from the net - maybe from this\nnewsgroup. does anyone know of a source for whether this is an\naccurate quote? thanks! ba"
+      }
+    ],
+    "label_distribution": {
+      "talk.politics.mideast": 46,
+      "soc.religion.christian": 1,
+      "talk.politics.misc": 3
+    },
+    "boundary_documents": [
+      {
+        "id": 6080,
+        "label": "misc.forsale",
+        "snippet": "********************[ pc game for sale ]******************\nwaxworks by horrorsoft/accolade (5.25\")\t\t $30\nby the same folks who brought you elvira i & ii. i played\nelvira i & ii, and think that horrors",
+        "top_memberships": {
+          "7": 0.5074,
+          "0": 0.4926,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 12047,
+        "label": "sci.electronics",
+        "snippet": "microphone pre-amp/low noise/phantom powered\ni'm looking to build a microphone preamp that has very good low-noise characteristics, large clean gain, and incorportates phantom power (20-48 volts (dc))",
+        "top_memberships": {
+          "7": 0.5077,
+          "0": 0.4923,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 12161,
+        "label": "sci.electronics",
+        "snippet": "how do di boxes work?\nin article (stephe lewis foskett) writes:\n$50 each!! don't bother trying to make one yourself, just shop around a\nlittle. i've found dod brand di boxes for as cheap as $20 each. ",
+        "top_memberships": {
+          "7": 0.5186,
+          "0": 0.4814,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 2865,
+        "label": "comp.os.ms-windows.misc",
+        "snippet": "exit codes (dos--sorry for wrong group : (\nin article (michael panayiotakis) writes:\nthere are 3 alternatives:\n1. you can try to write a small c program something like:\n int my_int_var;\n my_int_var = ",
+        "top_memberships": {
+          "12": 0.521,
+          "0": 0.479,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 2188,
+        "label": "comp.os.ms-windows.misc",
+        "snippet": "problem on dos box from windows - \"this file is compressed...\"\ni've started getting a message from windows 3.1 whenever i try to execute\na dos program from windows, either thru the program manager or ",
+        "top_memberships": {
+          "0": 0.5234,
+          "12": 0.4766,
+          "14": 0.0
+        }
+      }
+    ]
+  },
+  "10": {
+    "top_documents": [
+      {
+        "id": 18936,
+        "membership": 1.0,
+        "label": "talk.religion.misc",
+        "snippet": "albert sabin\nin article \n (herb huston) writes:\n (roy dace) writes:\nincluding ritualized cannibalism where the act itself becomes sacred?"
+      },
+      {
+        "id": 7183,
+        "membership": 1.0,
+        "label": "rec.autos",
+        "snippet": "warning.....(please read)...\nfrom article by (\"erik velapoldi\"):\nyes"
+      },
+      {
+        "id": 18737,
+        "membership": 1.0,
+        "label": "talk.politics.misc",
+        "snippet": "how many homosexuals are there?\n (theodore a. kaldis) writes:\n\tmy understanding from my psycology classes is that the percentage is \n\tmore like 10-12% world wide. i would really like to know your sour"
+      },
+      {
+        "id": 359,
+        "membership": 1.0,
+        "label": "alt.atheism",
+        "snippet": "islamic authority over women\n (s.n. mozumder ) writes:\ni just thought of another one, in the bible, so it's definately not because\nof *lack* of religion. the book of esther (which i read the other day"
+      },
+      {
+        "id": 18742,
+        "membership": 1.0,
+        "label": "talk.politics.misc",
+        "snippet": "new study out on gay percentage\nin article (la\nwrence c. foard) writes:\nso there are less gays, then the gays claim.\ndream on. abortion and african-american civil rights rallies don't even bring\nin ha"
+      },
+      {
+        "id": 18743,
+        "membership": 1.0,
+        "label": "talk.politics.misc",
+        "snippet": "new study out on gay percentage\nonly the most comprehensive survey on sexuality in 50 years.\nchance and size have nothing in common on the multimillion number scale we are \ntalking about.\nnobody said "
+      },
+      {
+        "id": 18745,
+        "membership": 1.0,
+        "label": "talk.politics.misc",
+        "snippet": "how many homosexuals are there?\nin article (riyadh al-ha\njmoosa) writes:\nsome survey conducted by the u.s. government and some group (i don't know \nwhich) did what they were calling on all the news sh"
+      },
+      {
+        "id": 18746,
+        "membership": 1.0,
+        "label": "talk.politics.misc",
+        "snippet": "mow bodycount\nin article (stephen chappell) writes:\ni bought mine at the mow storefront.\nits not plastic, its woven material.\nbut i think you miss the point.\nits not about the five bucks in your pocke"
+      },
+      {
+        "id": 16401,
+        "membership": 1.0,
+        "label": "talk.politics.guns",
+        "snippet": "who's next? mormons and jews?\nin article writes:\ndon't forget rifles.\nthe amendment in question was \"invented\" so that a government that had it in mind to\noppress its people would have cause to think "
+      },
+      {
+        "id": 16390,
+        "membership": 1.0,
+        "label": "talk.politics.guns",
+        "snippet": "who's next? mormons and jews?\nin article (john w. redelfs) writes:\nit's only been happening to the mormons for... what? 150 years?\npikers. we've been persecuted for well over 3000 years. the mormons\nj"
+      }
+    ],
+    "label_distribution": {
+      "talk.religion.misc": 1,
+      "rec.autos": 2,
+      "talk.politics.misc": 14,
+      "alt.atheism": 9,
+      "talk.politics.guns": 22,
+      "sci.med": 1,
+      "soc.religion.christian": 1
+    },
+    "boundary_documents": [
+      {
+        "id": 6080,
+        "label": "misc.forsale",
+        "snippet": "********************[ pc game for sale ]******************\nwaxworks by horrorsoft/accolade (5.25\")\t\t $30\nby the same folks who brought you elvira i & ii. i played\nelvira i & ii, and think that horrors",
+        "top_memberships": {
+          "7": 0.5074,
+          "0": 0.4926,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 12047,
+        "label": "sci.electronics",
+        "snippet": "microphone pre-amp/low noise/phantom powered\ni'm looking to build a microphone preamp that has very good low-noise characteristics, large clean gain, and incorportates phantom power (20-48 volts (dc))",
+        "top_memberships": {
+          "7": 0.5077,
+          "0": 0.4923,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 12161,
+        "label": "sci.electronics",
+        "snippet": "how do di boxes work?\nin article (stephe lewis foskett) writes:\n$50 each!! don't bother trying to make one yourself, just shop around a\nlittle. i've found dod brand di boxes for as cheap as $20 each. ",
+        "top_memberships": {
+          "7": 0.5186,
+          "0": 0.4814,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 2865,
+        "label": "comp.os.ms-windows.misc",
+        "snippet": "exit codes (dos--sorry for wrong group : (\nin article (michael panayiotakis) writes:\nthere are 3 alternatives:\n1. you can try to write a small c program something like:\n int my_int_var;\n my_int_var = ",
+        "top_memberships": {
+          "12": 0.521,
+          "0": 0.479,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 2188,
+        "label": "comp.os.ms-windows.misc",
+        "snippet": "problem on dos box from windows - \"this file is compressed...\"\ni've started getting a message from windows 3.1 whenever i try to execute\na dos program from windows, either thru the program manager or ",
+        "top_memberships": {
+          "0": 0.5234,
+          "12": 0.4766,
+          "14": 0.0
+        }
+      }
+    ]
+  },
+  "11": {
+    "top_documents": [
+      {
+        "id": 18906,
+        "membership": 1.0,
+        "label": "talk.religion.misc",
+        "snippet": "question for those with popular morality\nin article (bob sarver) writes:\n/(hudson)\n/if someone inflicts pain on themselves, whether they enjoy it or not, they\n/are hurting themselves. they may be perm"
+      },
+      {
+        "id": 362,
+        "membership": 1.0,
+        "label": "alt.atheism",
+        "snippet": "moraltiy? (was re: <political atheists?)\nin article (keith allan schneider) writes:\n|> (jon livesey) writes:\n|> >>>>what if i act morally for no particular reason? then am i moral? what\n|> >>>>if mora"
+      },
+      {
+        "id": 19424,
+        "membership": 1.0,
+        "label": "talk.religion.misc",
+        "snippet": "after 2000 years, can we say that christian morality is\nit accurately described what we can _say_ about how the universe works."
+      },
+      {
+        "id": 357,
+        "membership": 1.0,
+        "label": "alt.atheism",
+        "snippet": "after 2000 years, can we say that christian morality is\nin article (keith m. ryan) writes:\n[deletions]\na lie of omission, as it were. (as opposed to an outright lie which i\nbelieve would be termed a l"
+      },
+      {
+        "id": 19422,
+        "membership": 1.0,
+        "label": "talk.religion.misc",
+        "snippet": "after 2000 years, can we say that christian morality is\nin article mathew writes:\nsimple. take out some physics books, and start looking for statements which\nsay that there is no objective physics. i "
+      },
+      {
+        "id": 358,
+        "membership": 1.0,
+        "label": "alt.atheism",
+        "snippet": "after 2000 years, can we say that christian morality is\nin article (frank o'dwyer) writes:\nas a loyal relativist, even you can partake in the wonders of\nscientific discovery (to borrow a phrase from d"
+      },
+      {
+        "id": 18910,
+        "membership": 1.0,
+        "label": "talk.religion.misc",
+        "snippet": "question for those with popular morality\nin article (bob sarver) writes:\n/(hudson)\n/why does that make something immoral?\nbecause you are not being consistent. moral systems must be consistent.\na pers"
+      },
+      {
+        "id": 360,
+        "membership": 1.0,
+        "label": "alt.atheism",
+        "snippet": "objective morality (was re: <political atheists?)\nin article (keith allan schneider) writes:\n|> (jon livesey) writes:\n|> >i want to know how this omniscient being is going to perform\n|> >the feat of \""
+      },
+      {
+        "id": 18912,
+        "membership": 1.0,
+        "label": "talk.religion.misc",
+        "snippet": "question for those with popular morality\nin article writes:\nmaybe not to you. but to those who stand on this base, he is \nprecious.\nlink"
+      },
+      {
+        "id": 19416,
+        "membership": 1.0,
+        "label": "talk.religion.misc",
+        "snippet": "christian meta-ethics\ni wrote:\nin article (dave davis) writes:\nno. it follows from the fact that most christians' choice of\ninterpretation stems from a mix of beliefs that are influenced by\nthe secula"
+      }
+    ],
+    "label_distribution": {
+      "talk.religion.misc": 20,
+      "alt.atheism": 30
+    },
+    "boundary_documents": [
+      {
+        "id": 6080,
+        "label": "misc.forsale",
+        "snippet": "********************[ pc game for sale ]******************\nwaxworks by horrorsoft/accolade (5.25\")\t\t $30\nby the same folks who brought you elvira i & ii. i played\nelvira i & ii, and think that horrors",
+        "top_memberships": {
+          "7": 0.5074,
+          "0": 0.4926,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 12047,
+        "label": "sci.electronics",
+        "snippet": "microphone pre-amp/low noise/phantom powered\ni'm looking to build a microphone preamp that has very good low-noise characteristics, large clean gain, and incorportates phantom power (20-48 volts (dc))",
+        "top_memberships": {
+          "7": 0.5077,
+          "0": 0.4923,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 12161,
+        "label": "sci.electronics",
+        "snippet": "how do di boxes work?\nin article (stephe lewis foskett) writes:\n$50 each!! don't bother trying to make one yourself, just shop around a\nlittle. i've found dod brand di boxes for as cheap as $20 each. ",
+        "top_memberships": {
+          "7": 0.5186,
+          "0": 0.4814,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 2865,
+        "label": "comp.os.ms-windows.misc",
+        "snippet": "exit codes (dos--sorry for wrong group : (\nin article (michael panayiotakis) writes:\nthere are 3 alternatives:\n1. you can try to write a small c program something like:\n int my_int_var;\n my_int_var = ",
+        "top_memberships": {
+          "12": 0.521,
+          "0": 0.479,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 2188,
+        "label": "comp.os.ms-windows.misc",
+        "snippet": "problem on dos box from windows - \"this file is compressed...\"\ni've started getting a message from windows 3.1 whenever i try to execute\na dos program from windows, either thru the program manager or ",
+        "top_memberships": {
+          "0": 0.5234,
+          "12": 0.4766,
+          "14": 0.0
+        }
+      }
+    ]
+  },
+  "12": {
+    "top_documents": [
+      {
+        "id": 5047,
+        "membership": 1.0,
+        "label": "comp.windows.x",
+        "snippet": "ms windows vs motif (gui design differences), was re: future of unix\nin article (ik su yoo ) writes:\n|> >>>>> \"aab\" == andy burgess writes:\n|> aab> in (larry d. pyeatt) writes:\n|> aab> <some deleted>\n"
+      },
+      {
+        "id": 5266,
+        "membership": 1.0,
+        "label": "comp.windows.x",
+        "snippet": "cursors\naccording to the osf/motif style guide, one should use cursor shapes to give\nthe user a visual clue of what is happening or what is expected of him. so\na \"hourglass\" cursor should be shown whe"
+      },
+      {
+        "id": 5253,
+        "membership": 1.0,
+        "label": "comp.windows.x",
+        "snippet": "need font family, weight and slant from instance of a widget\nhow can i get the font family, weight and slant from an\ninstance of a widget? using initfontcontext(), getnextfont()\nand freefontcontext() "
+      },
+      {
+        "id": 2515,
+        "membership": 1.0,
+        "label": "comp.os.ms-windows.misc",
+        "snippet": "need windows-logo\nin a previous article, wrote:\nthat isn't enough to change your windows startup logo. vgalogo.rle is not \nneeded after you have installed windows. it is incorporated as a part of \nwin"
+      },
+      {
+        "id": 5254,
+        "membership": 1.0,
+        "label": "comp.windows.x",
+        "snippet": "transparent widgets--how?\nin article (alexander cerna (sv)) writes:\nthe oclock widget was written using the shape extension.\nyou can do the same in your widgets. few current widgets\nsupport shape, so "
+      },
+      {
+        "id": 2516,
+        "membership": 1.0,
+        "label": "comp.os.ms-windows.misc",
+        "snippet": "any updated canon bj-200 driver?\nhi ... can anyone tell me where i can get a copy of updated canon bj-200\nprinter driver for windows 3.1, if any ? i have ver 1.0 which comes with\nmy bj-200 printer, i "
+      },
+      {
+        "id": 5255,
+        "membership": 1.0,
+        "label": "comp.windows.x",
+        "snippet": "mix gl with x (xlib,xt,mwm)\nin article (jay graham) writes:\n|> i am developing an x (xt,xm) application that will include a graphics window\n|> of some sort with moving symbols among other things. a pu"
+      },
+      {
+        "id": 5256,
+        "membership": 1.0,
+        "label": "comp.windows.x",
+        "snippet": "monthly question about xcopyarea() and expose events\nin article (buzz moschetti)\nwrites:\n|> (2nd posting of the question that just doesn't seem to get answered)\n|> suppose you have an idle app with a "
+      },
+      {
+        "id": 5257,
+        "membership": 1.0,
+        "label": "comp.windows.x",
+        "snippet": "sparc ipc sprite goes off screen\nenvironment:\n\tmotif 1.1.4\n\tsun ipc 4.1.3\nproblem:\n\twhen mouse is moved across screen horizontally, the sprite goes off\n\tof the edge of the screen and reappears at the "
+      },
+      {
+        "id": 5258,
+        "membership": 1.0,
+        "label": "comp.windows.x",
+        "snippet": "xcopyplane question\n| in article (buzz moschetti) write\n| >in article (ken whaley) writes:\n| >> actually, i must also ask the faq's #1 most popular reason why graphics\n| >> don't show up: do you wait "
+      }
+    ],
+    "label_distribution": {
+      "comp.windows.x": 28,
+      "comp.os.ms-windows.misc": 14,
+      "comp.graphics": 7,
+      "comp.sys.mac.hardware": 1
+    },
+    "boundary_documents": [
+      {
+        "id": 6080,
+        "label": "misc.forsale",
+        "snippet": "********************[ pc game for sale ]******************\nwaxworks by horrorsoft/accolade (5.25\")\t\t $30\nby the same folks who brought you elvira i & ii. i played\nelvira i & ii, and think that horrors",
+        "top_memberships": {
+          "7": 0.5074,
+          "0": 0.4926,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 12047,
+        "label": "sci.electronics",
+        "snippet": "microphone pre-amp/low noise/phantom powered\ni'm looking to build a microphone preamp that has very good low-noise characteristics, large clean gain, and incorportates phantom power (20-48 volts (dc))",
+        "top_memberships": {
+          "7": 0.5077,
+          "0": 0.4923,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 12161,
+        "label": "sci.electronics",
+        "snippet": "how do di boxes work?\nin article (stephe lewis foskett) writes:\n$50 each!! don't bother trying to make one yourself, just shop around a\nlittle. i've found dod brand di boxes for as cheap as $20 each. ",
+        "top_memberships": {
+          "7": 0.5186,
+          "0": 0.4814,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 2865,
+        "label": "comp.os.ms-windows.misc",
+        "snippet": "exit codes (dos--sorry for wrong group : (\nin article (michael panayiotakis) writes:\nthere are 3 alternatives:\n1. you can try to write a small c program something like:\n int my_int_var;\n my_int_var = ",
+        "top_memberships": {
+          "12": 0.521,
+          "0": 0.479,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 2188,
+        "label": "comp.os.ms-windows.misc",
+        "snippet": "problem on dos box from windows - \"this file is compressed...\"\ni've started getting a message from windows 3.1 whenever i try to execute\na dos program from windows, either thru the program manager or ",
+        "top_memberships": {
+          "0": 0.5234,
+          "12": 0.4766,
+          "14": 0.0
+        }
+      }
+    ]
+  },
+  "13": {
+    "top_documents": [
+      {
+        "id": 1128,
+        "membership": 1.0,
+        "label": "comp.graphics",
+        "snippet": "hot new 3d software\ni don't have nor imagine nor real 3d, but as old\namiga user i think you should take a look also to \nreal 3d 2.0 for the amiga. i saw imagine 2.0 on the\namiga for a long time at my "
+      },
+      {
+        "id": 1638,
+        "membership": 1.0,
+        "label": "comp.graphics",
+        "snippet": "vatican library\n the vatican library recently made a tour of the us.\n can anyone help me in finding a ftp site where this collection is \n available.\n thanx in advance\n j. watson"
+      },
+      {
+        "id": 862,
+        "membership": 1.0,
+        "label": "alt.atheism",
+        "snippet": "where are they now?\nin article (frank o'dwyer) writes:\n[frank's solution deleted.]\nif you have access to telnet, contact nyx.cs.du.edu. it's a public access\nunix system, completly free, and all you ne"
+      },
+      {
+        "id": 13962,
+        "membership": 1.0,
+        "label": "sci.space",
+        "snippet": "dutch: symposium compacte objecten\nsterrenkundig symposium 'compacte objecten'\n op 26 april 1993\nin het jaar 1643, zeven jaar na de oprichting van de\nuniversiteit van utrecht, benoemde de universiteit"
+      },
+      {
+        "id": 1631,
+        "membership": 1.0,
+        "label": "comp.graphics",
+        "snippet": "rumours about 3do ???\nin article sean mcmains writes:\nthe 68070 is made by someone other than motorola (signetics perhaps),\nand was (if memory serves me correctly) a 68000 compatible single chip\nmicro"
+      },
+      {
+        "id": 1628,
+        "membership": 1.0,
+        "label": "comp.graphics",
+        "snippet": "newsgroup split\nin article (phil martin u) writes:\n!chris herringshaw wrote:\n!: concerning the proposed newsgroup split, i personally am not in favor of\n!: doing this. i learn an awful lot about all a"
+      },
+      {
+        "id": 13948,
+        "membership": 1.0,
+        "label": "sci.space",
+        "snippet": "magellan venus maps (thanks)\nthanks ron and peter for some very nice maps.\ni have an advice though. you wrote that the maps were reduced to 256\ncolors. as far ad i understand jpeg pictures gets much b"
+      },
+      {
+        "id": 1626,
+        "membership": 1.0,
+        "label": "comp.graphics",
+        "snippet": "virtual reality for x on the cheap!\n (brian s. ridout) writes:\ni've tried compiling it on several sparcstations with gcc 2.22. after\nfixing up a few bugs (3 missing constant definitions plus a couple "
+      },
+      {
+        "id": 11001,
+        "membership": 1.0,
+        "label": "sci.crypt",
+        "snippet": "issa '93 conference\nif there is anyone attending the issa conference in arlington, va next\nweek, i would appreciate them getting in touch with me.\nbruce"
+      },
+      {
+        "id": 1624,
+        "membership": 1.0,
+        "label": "comp.graphics",
+        "snippet": "fast polygon routines needed.\ni am looking for some fast polygon routines (shaded or texture\nmapped) in asm (compile with masm) or in turbo pascal (compile with\ntp6). it has to be able to run on a 286"
+      }
+    ],
+    "label_distribution": {
+      "comp.graphics": 24,
+      "alt.atheism": 1,
+      "sci.space": 4,
+      "sci.crypt": 5,
+      "rec.motorcycles": 2,
+      "sci.electronics": 1,
+      "comp.sys.ibm.pc.hardware": 3,
+      "comp.windows.x": 6,
+      "misc.forsale": 3,
+      "comp.os.ms-windows.misc": 1
+    },
+    "boundary_documents": [
+      {
+        "id": 6080,
+        "label": "misc.forsale",
+        "snippet": "********************[ pc game for sale ]******************\nwaxworks by horrorsoft/accolade (5.25\")\t\t $30\nby the same folks who brought you elvira i & ii. i played\nelvira i & ii, and think that horrors",
+        "top_memberships": {
+          "7": 0.5074,
+          "0": 0.4926,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 12047,
+        "label": "sci.electronics",
+        "snippet": "microphone pre-amp/low noise/phantom powered\ni'm looking to build a microphone preamp that has very good low-noise characteristics, large clean gain, and incorportates phantom power (20-48 volts (dc))",
+        "top_memberships": {
+          "7": 0.5077,
+          "0": 0.4923,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 12161,
+        "label": "sci.electronics",
+        "snippet": "how do di boxes work?\nin article (stephe lewis foskett) writes:\n$50 each!! don't bother trying to make one yourself, just shop around a\nlittle. i've found dod brand di boxes for as cheap as $20 each. ",
+        "top_memberships": {
+          "7": 0.5186,
+          "0": 0.4814,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 2865,
+        "label": "comp.os.ms-windows.misc",
+        "snippet": "exit codes (dos--sorry for wrong group : (\nin article (michael panayiotakis) writes:\nthere are 3 alternatives:\n1. you can try to write a small c program something like:\n int my_int_var;\n my_int_var = ",
+        "top_memberships": {
+          "12": 0.521,
+          "0": 0.479,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 2188,
+        "label": "comp.os.ms-windows.misc",
+        "snippet": "problem on dos box from windows - \"this file is compressed...\"\ni've started getting a message from windows 3.1 whenever i try to execute\na dos program from windows, either thru the program manager or ",
+        "top_memberships": {
+          "0": 0.5234,
+          "12": 0.4766,
+          "14": 0.0
+        }
+      }
+    ]
+  },
+  "14": {
+    "top_documents": [
+      {
+        "id": 1246,
+        "membership": 1.0,
+        "label": "comp.graphics",
+        "snippet": "so what is the fastest windows video c\nin article writes:\nyeah - they also gave it their \"editor's choice\" in the run-down of\ngraphics accelerators they tested in the previous issue, which is why\ni bo"
+      },
+      {
+        "id": 3028,
+        "membership": 1.0,
+        "label": "comp.sys.ibm.pc.hardware",
+        "snippet": "gateway 2000 486dx/33 too noisy\nin article says:\nif your gateway is equipped with a western hard drive, then the noise\nis probably coming from there and not from the fan. the western drives\nare notori"
+      },
+      {
+        "id": 4623,
+        "membership": 1.0,
+        "label": "comp.sys.mac.hardware",
+        "snippet": "sony reliability (was re: musings on pb100 durability)\nin article (lawrence d'oliveiro, waikato university) writes:\nyup, i bought the darn thing cause it was sturdy. i carry it around in\nan unpadded ("
+      },
+      {
+        "id": 1421,
+        "membership": 1.0,
+        "label": "comp.graphics",
+        "snippet": "question: video projector\ni am setting up a video-aid for a computer room for the teacher to share his\ndisplay with the class.\ni have seen people using video projector, tv sets and large monitor to do"
+      },
+      {
+        "id": 4624,
+        "membership": 1.0,
+        "label": "comp.sys.mac.hardware",
+        "snippet": "price cuts\ni heard that the magic date for price drop in a number of apple products\nwill\njune 30th. can anyone second this rumour?"
+      },
+      {
+        "id": 4625,
+        "membership": 1.0,
+        "label": "comp.sys.mac.hardware",
+        "snippet": "price drops\ni heard that there will be an apple price drop coming june 30th. can\nanyone second this rumour?"
+      },
+      {
+        "id": 4626,
+        "membership": 1.0,
+        "label": "comp.sys.mac.hardware",
+        "snippet": "selling of powerbook 100s\nin article (murray altheim) writes:\nput me down for a pb100 4/20 with ext. floppy, appletalk remote acces,\nac adapter, and fresh out of box (was used, but buyer switched to 1"
+      },
+      {
+        "id": 4627,
+        "membership": 1.0,
+        "label": "comp.sys.mac.hardware",
+        "snippet": "ouadra cache problems\nhi mac fans,\ni have some problems with my new quadra 700. several programs\n(mathematica 2.1, afterdark-mandelbrot module) causes a systemcrash\nif the 040cache is active. do anyon"
+      },
+      {
+        "id": 4628,
+        "membership": 1.0,
+        "label": "comp.sys.mac.hardware",
+        "snippet": "how fast is m6775 ll/a (apple fpu)?\nwhat is the maximum rate of the 6882 fpu that apple sells directly (apple\npart no. m6775 ll/a)? the apple literature labels the fpu for classics and\nlc iii's so i a"
+      },
+      {
+        "id": 4630,
+        "membership": 1.0,
+        "label": "comp.sys.mac.hardware",
+        "snippet": "video cards for duodock?\ni just got a duo230 and a duodock, and am quite happy with it all -\nexcept i need to use the dock with \n\ta) two page grey scale monitor (apple)\n b) two page color monitor (app"
+      }
+    ],
+    "label_distribution": {
+      "comp.graphics": 7,
+      "comp.sys.ibm.pc.hardware": 13,
+      "comp.sys.mac.hardware": 30
+    },
+    "boundary_documents": [
+      {
+        "id": 6080,
+        "label": "misc.forsale",
+        "snippet": "********************[ pc game for sale ]******************\nwaxworks by horrorsoft/accolade (5.25\")\t\t $30\nby the same folks who brought you elvira i & ii. i played\nelvira i & ii, and think that horrors",
+        "top_memberships": {
+          "7": 0.5074,
+          "0": 0.4926,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 12047,
+        "label": "sci.electronics",
+        "snippet": "microphone pre-amp/low noise/phantom powered\ni'm looking to build a microphone preamp that has very good low-noise characteristics, large clean gain, and incorportates phantom power (20-48 volts (dc))",
+        "top_memberships": {
+          "7": 0.5077,
+          "0": 0.4923,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 12161,
+        "label": "sci.electronics",
+        "snippet": "how do di boxes work?\nin article (stephe lewis foskett) writes:\n$50 each!! don't bother trying to make one yourself, just shop around a\nlittle. i've found dod brand di boxes for as cheap as $20 each. ",
+        "top_memberships": {
+          "7": 0.5186,
+          "0": 0.4814,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 2865,
+        "label": "comp.os.ms-windows.misc",
+        "snippet": "exit codes (dos--sorry for wrong group : (\nin article (michael panayiotakis) writes:\nthere are 3 alternatives:\n1. you can try to write a small c program something like:\n int my_int_var;\n my_int_var = ",
+        "top_memberships": {
+          "12": 0.521,
+          "0": 0.479,
+          "14": 0.0
+        }
+      },
+      {
+        "id": 2188,
+        "label": "comp.os.ms-windows.misc",
+        "snippet": "problem on dos box from windows - \"this file is compressed...\"\ni've started getting a message from windows 3.1 whenever i try to execute\na dos program from windows, either thru the program manager or ",
+        "top_memberships": {
+          "0": 0.5234,
+          "12": 0.4766,
+          "14": 0.0
+        }
+      }
+    ]
+  }
+}
