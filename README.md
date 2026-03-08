@@ -189,7 +189,7 @@ semantic-search-trademarkia/
 ### 1. Clone and set up environment
 
 ```bash
-git clone https://github.com/<your-username>/semantic-search-trademarkia
+git clone https://github.com/AryanGupta-005/Semantic-Search
 cd semantic-search-trademarkia
 python -m venv venv
 
