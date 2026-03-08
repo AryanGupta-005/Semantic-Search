@@ -7,7 +7,7 @@ __pycache__/
 
 # Data (too large for GitHub)
 data/raw/
-
+artifacts/
 # Jupyter checkpoints
 .ipynb_checkpoints/
 
