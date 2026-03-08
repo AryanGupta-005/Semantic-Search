@@ -7,10 +7,12 @@ __pycache__/
 
 # Data (too large for GitHub)
 data/raw/
-artifacts/
+
 # Jupyter checkpoints
 .ipynb_checkpoints/
 
 # OS
 .DS_Store
 Thumbs.db
+artifacts/
+data/processed/
